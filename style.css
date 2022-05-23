@@ -1,0 +1,77 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #7a919157;
+}
+
+.starterScreen {
+    background-image: url("img/mockup.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.headers {
+    color: white;
+    text-align: center;
+    top: 40%;
+    width: 100%;
+    padding-top: 12%;
+}
+h1 {
+    font-size: 180px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2 {
+    margin-bottom: 60px;
+    margin-top: 150px;
+    font-size: 50px;
+}
+h4 {
+    font-size: 60px;
+    font-style: italic;
+    margin-top: 0px;
+}
+
+p {
+    line-height: 35px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+    padding-bottom: 150px;
+}
+
+.divider {
+    border-style: none none solid none;
+    margin: 120px 100px 0px 100px;
+    color: #132b1e;
+}
+
+footer {
+    background-color: #132b1e;
+    padding: 100% 100% 100% 100%;
+}
+
+img {
+    width: 450px;
+    float: right;
+}
+
+dt {
+    margin-top: 85px;
+    font-family: cursive;
+    font-size: 20px;}
+
+.studies {
+    text-align: center;
+}
+
+.work {
+    text-align: center;
+}
